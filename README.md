@@ -13,7 +13,7 @@ Task offloading in 6G vehicular networks ensures network efficiency as vehicles 
 - Assess performance improvements by adjusting transmission data rates, task sizes, and network sizes in the presence of authentication overhead.
 
 # Repository Contents
-- src/: Source code for implementing the PPO-DRL model of authenticated offloading algorithms.
+- Source code for implementing the PPO-DRL model of authenticated offloading algorithms.
 
 # Prerequisites
 Python 3.11.3 and PyTorch 2.1.2
@@ -33,8 +33,7 @@ Running Simulations:
   1) change to the created directory: cd IBC-Task-Offloading-6G-VTN-PPO-DRL
   2) then type: jupyter lab
 
-Once your browser window opens, locate the src folder and click on the related "code" file. Under the src, this is the included "code" file:
-- For latency and offloading percentage vs different network sizes, task sizes, and data rates, use the cloud-ibc-rate.ipynb
+Once your browser window opens, click on the related "code" file. For latency and offloading percentage vs different network sizes, task sizes, and data rates, use the cloud-ibc-rate.ipynb
 
 P.S. You can play and choose whatever hyperparameters, network size, task size, and data rates you want to experiment with.
 
